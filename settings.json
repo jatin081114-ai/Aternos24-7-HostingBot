@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "jatin0978.aternos.me",
+    "port": 38087,
+    "version": "1.26.51.1",
     "try-creative": false
   },
   "position": {
